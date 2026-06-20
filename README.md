@@ -22,7 +22,7 @@
 <tr>
 <td width="100%" align="center">
 
-```ts
+
 const developer = {
   name: "trig0s1205",
   role: ["Full-Stack Developer", "Legal-Tech Builder", "Architecture Enthusiast"],
@@ -31,7 +31,6 @@ const developer = {
   currentlyExploring: "AI-assisted dev workflows with LangGraph & OpenRouter",
   funFact: "Building DIXUS — a luxury watch brand, end-to-end."
 };
-```
 
 </td>
 </tr>
@@ -217,6 +216,3 @@ const developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3EECAC,50:0EA5E9,100:0D1117&height=120&section=footer" width="100%"/>
 
-<div align="center">
-<sub>⚡ Construido con código, café y arquitectura limpia.</sub>
-</div>
