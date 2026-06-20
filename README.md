@@ -23,6 +23,13 @@
 <td width="100%" align="center">
 
 
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## 📊 Analytics Dashboard
 
 <div align="center">
@@ -200,4 +207,3 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3EECAC,50:0EA5E9,100:0D1117&height=120&section=footer" width="100%"/>
-
