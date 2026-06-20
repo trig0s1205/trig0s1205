@@ -23,21 +23,6 @@
 <td width="100%" align="center">
 
 
-const developer = {
-  name: "trig0s1205",
-  role: ["Full-Stack Developer", "Legal-Tech Builder", "Architecture Enthusiast"],
-  stack: ["TypeScript", "C#", "Python", "PHP"],
-  architecture: ["Hexagonal Architecture", "Clean Architecture"],
-  currentlyExploring: "AI-assisted dev workflows with LangGraph & OpenRouter",
-  funFact: "Building DIXUS — a luxury watch brand, end-to-end."
-};
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 📊 Analytics Dashboard
 
 <div align="center">
