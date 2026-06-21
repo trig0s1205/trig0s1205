@@ -188,7 +188,9 @@
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/Portafolio-Próximamente-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portafolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
+                href = "https://trg1205.vercel.app"
+              /></a>
 
 </div>
 
