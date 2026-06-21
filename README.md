@@ -18,18 +18,6 @@
 
 <br>
 
-<table align="center" border="0">
-<tr>
-<td width="100%" align="center">
-
-
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 📊 Analytics Dashboard
 
 <div align="center">
@@ -170,27 +158,25 @@
 <th align="center">Enlace</th>
 </tr>
 <tr>
-<td align="center"><b>🕐 Proyecto Luxury Brand</b></td>
-<td align="center">E-commerce + panel de administración para marca de relojería de lujo</td>
-<td align="center"><a href="#">Ver proyecto</a></td>
+<td align="center"><b>🕐 DIXUS — Luxury Timepieces</b></td>
+<td align="center">E-commerce de relojería de lujo + panel de control para catálogo y registro VIP</td>
+<td align="center"><a href="https://dixus-time.vercel.app">Ver proyecto</a></td>
 </tr>
 <tr>
-<td align="center"><b>🔐 Proyecto Auth System</b></td>
-<td align="center">Sistema de autenticación con NestJS + pruebas de seguridad con Playwright</td>
-<td align="center"><a href="#">Ver proyecto</a></td>
+<td align="center"><b>💰 CashSolution</b></td>
+<td align="center">Sitio institucional para firma de gestión contable, financiera y tributaria</td>
+<td align="center"><a href="https://www.cashsolution.com.co">Ver proyecto</a></td>
 </tr>
 <tr>
-<td align="center"><b>⚖️ Proyecto Legal-Tech</b></td>
-<td align="center">Herramienta de gestión y organización de expedientes judiciales</td>
-<td align="center"><a href="#">Ver proyecto</a></td>
+<td align="center"><b>🔐 Sistema de Autenticación</b></td>
+<td align="center">Auth con NestJS + pruebas de seguridad con Playwright (en construcción)</td>
+<td align="center"><a href="#">Próximamente</a></td>
 </tr>
 </table>
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/Portafolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
-                href = "https://trg1205.vercel.app"
-              /></a>
+<a href="https://trg1205.vercel.app"><img src="https://img.shields.io/badge/Portafolio-trg1205.vercel.app-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
